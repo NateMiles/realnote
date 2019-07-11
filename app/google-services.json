@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781832827578",
+    "firebase_url": "https://findr-41efe.firebaseio.com",
+    "project_id": "findr-41efe",
+    "storage_bucket": "findr-41efe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781832827578:android:7e81729681288551",
+        "android_client_info": {
+          "package_name": "com.example.realnoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781832827578-8lgruauku1a6qo6au04b3484l3h3lo3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realnoteapp",
+            "certificate_hash": "79d0c93bf98d991fb974aa05068962508f0d08a0"
+          }
+        },
+        {
+          "client_id": "781832827578-g4narl8cr57lc8rnjk7efnq4vfleajqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG9OAnl7QdoyszOh0rcnC-5IRcruNL69w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781832827578-g4narl8cr57lc8rnjk7efnq4vfleajqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
