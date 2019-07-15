@@ -135,6 +135,8 @@ public class UserPage extends AppCompatActivity {
     }
 
     private void getRandChat() {
+        history=false;
+        chat.putExtra("history", history);
         DocumentReference docRef = db.collection("randChat").document("openChat");
         docRef.get().addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
             @Override

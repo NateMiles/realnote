@@ -65,7 +65,7 @@
         android:layout_marginBottom="23dp"
         android:checked="false"
         android:onClick="itemClicked"
-        android:text="Enable Message History?"
+        android:text="Enable Message History? ( Local only )"
         android:textColor="@color/common_google_signin_btn_text_dark_pressed"
         app:layout_constraintBottom_toTopOf="@id/saveUser"
         app:layout_constraintEnd_toEndOf="parent"
